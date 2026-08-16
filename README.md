@@ -1,9 +1,10 @@
-# 12th-Standard-Holiday-Cpp-Projects
+#12th Standard Holiday C++ Projects
+
 A collection of C++ projects I developed during my 12th-standard holidays, before beginning my engineering journey.
 
 These projects were created as part of my early exploration of programming and software development. They reflect my initial attempts at building interactive, user-oriented applications using C++.
 
-Projects:
+Projects
 
 1. Screen Time Guider
 
@@ -19,7 +20,6 @@ Concepts explored:
 - Switch-case
 - User Input and Validation
 - String Handling
-  
 
 2. Simple Rule-Based Chatbot
 
@@ -56,7 +56,8 @@ Repository Structure
 
 12th-Standard-Holiday-Cpp-Projects/
 
-    README.md
+    .github/
+        workflows/
 
     Project-01-Screen-Time-Guider/
         README.md
@@ -65,6 +66,8 @@ Repository Structure
     Project-02-Simple-Rule-Based-Chatbot/
         README.md
         main.cpp
+
+    README.md
 
 Note
 
