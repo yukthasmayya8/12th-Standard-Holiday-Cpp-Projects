@@ -62,7 +62,7 @@ Repository Structure
 │   ├── README.md
 │   └── main.cpp
 │
-└── Project-02-AI-Chatbot/
+└── Project-02-Simple-Rule-Based-Chatbot/
     ├── README.md
     └── main.cpp
 
