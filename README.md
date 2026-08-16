@@ -55,16 +55,16 @@ As I continue developing my technical skills, this repository serves as a refere
 Repository Structure
 
 12th-Standard-Holiday-Cpp-Projects/
-│
-├── README.md
-│
-├── Project-01-Screen-Time-Guider/
-│   ├── README.md
-│   └── main.cpp
-│
-└── Project-02-Simple-Rule-Based-Chatbot/
-    ├── README.md
-    └── main.cpp
+
+    README.md
+
+    Project-01-Screen-Time-Guider/
+        README.md
+        main.cpp
+
+    Project-02-Simple-Rule-Based-Chatbot/
+        README.md
+        main.cpp
 
 Note
 
