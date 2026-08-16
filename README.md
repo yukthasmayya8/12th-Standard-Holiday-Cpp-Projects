@@ -21,7 +21,7 @@ Concepts explored:
 - String Handling
   
 
-2. AI Chatbot
+2. Simple Rule-Based Chatbot
 
 A console-based, rule-based chatbot designed to simulate an AI assistant. It provides predefined interactions for academics, problem solving, solutions, and entertainment.
 
