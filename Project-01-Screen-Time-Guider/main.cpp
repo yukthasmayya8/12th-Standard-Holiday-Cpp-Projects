@@ -126,9 +126,9 @@ break; }
 cout<<"\n\n_________________________________________________\n\n";
 }
 void ScreenTime::final_thoughts() {
-cout<<"\nSo friends using screen for long time makes you more addicted and finally you would lose yourself to it.\nIf you have a beautiful family,parents,sisters, then it's a great fortune! Speak with them.\nDon't kill time seeing useless shorts,reels.\n\nIf you have important work on your mobile or laptop or computer,please take some breaks,follow 20-20-20 rule,blink fast after every 30 minutes.\nAlways use a bigger screen.\nAvoid staring at smaller screens like mobile phone.\nThese practices can help you lead a better lifestyle. \nAlways keep track of your screen time of all your gadgets.\nLead a life which would become an example for all.\nDon't get addicted to bad habits.\nBe humane.\nSpend time with nature, nature teaches many things.
-\n ಸರ್ವೇಜನ: ಸುಖಿನೋರ್ಭವಂತು
-\n. ಓಂ ಶಾಂತಿ ಶಾಂತಿ ಶಾಂತಿ\n";
+cout<<"\nSo friends using screen for long time makes you more addicted and finally you would lose yourself to it.\nIf you have a beautiful family,parents,sisters, then it's a great fortune! Speak with them.\nDon't kill time seeing useless shorts,reels.\n\nIf you have important work on your mobile or laptop or computer,please take some breaks,follow 20-20-20 rule,blink fast after every 30 minutes.\nAlways use a bigger screen.\nAvoid staring at smaller screens like mobile phone.\nThese practices can help you lead a better lifestyle. \nAlways keep track of your screen time of all your gadgets.\nLead a life which would become an example for all.\nDon't get addicted to bad habits.\nBe humane.\nSpend time with nature, nature teaches many things.\n"
+"\n ಸರ್ವೇಜನ: ಸುಖಿನೋರ್ಭವಂತು"
+"\n. ಓಂ ಶಾಂತಿ ಶಾಂತಿ ಶಾಂತಿ\n";
 }
 
 int main()
